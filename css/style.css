@@ -1,18 +1,16 @@
 @font-face {
     font-family: 'Roboto';
-    src: local('Roboto');
-    src: url(fonts/Roboto-Regular.woff);
+    src: url('../fonts/Roboto-Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'KyivTypeTitling-Bold2';
-    src: local('KyivTypeTitling-Bold2');
-    src: url(fonts/KyivTypeTitling-Bold2.woff);
+    src: url('../fonts/KyivTypeTitling-Bold2.woff') format('woff');
 }
+
 @font-face {
     font-family: 'Philosopher';
-    src: local('Philosopher');
-    src: url(fonts/Philosopher-Regular.woff);
+    src: url('../fonts/Philosopher-Regular.woff') format('woff');
 }
 body {
     background-color: whitesmoke;
